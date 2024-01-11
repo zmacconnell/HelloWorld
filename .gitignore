@@ -484,3 +484,11 @@ $RECYCLE.BIN/
 *.swp
 
 venv
+helloworld
+HelloWorld.csproj
+helloworld.js
+HelloWorld.sln
+helloworld.ts
+package-lock.json
+package.json
+Program.cs
